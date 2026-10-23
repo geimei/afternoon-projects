@@ -1,0 +1,7 @@
+# Build output and editor files
+build/
+*.hex
+*.elf
+*.o
+.DS_Store
+.vscode/
